@@ -1,0 +1,6 @@
+C:\Users\Navegador\source\repos\GestionTareas\EntityZone\bin\Debug\EntityZone.dll
+C:\Users\Navegador\source\repos\GestionTareas\EntityZone\bin\Debug\EntityZone.pdb
+C:\Users\Navegador\source\repos\GestionTareas\EntityZone\obj\Debug\EntityZone.csproj.AssemblyReference.cache
+C:\Users\Navegador\source\repos\GestionTareas\EntityZone\obj\Debug\EntityZone.csproj.CoreCompileInputs.cache
+C:\Users\Navegador\source\repos\GestionTareas\EntityZone\obj\Debug\EntityZone.dll
+C:\Users\Navegador\source\repos\GestionTareas\EntityZone\obj\Debug\EntityZone.pdb

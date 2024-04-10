@@ -1,0 +1,14 @@
+C:\Users\Navegador\source\repos\GestionTareas\DatosZone\bin\Debug\DatosZone.dll.config
+C:\Users\Navegador\source\repos\GestionTareas\DatosZone\bin\Debug\DatosZone.dll
+C:\Users\Navegador\source\repos\GestionTareas\DatosZone\bin\Debug\DatosZone.pdb
+C:\Users\Navegador\source\repos\GestionTareas\DatosZone\bin\Debug\EntityFramework.dll
+C:\Users\Navegador\source\repos\GestionTareas\DatosZone\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Navegador\source\repos\GestionTareas\DatosZone\bin\Debug\EntityZone.dll
+C:\Users\Navegador\source\repos\GestionTareas\DatosZone\bin\Debug\EntityZone.pdb
+C:\Users\Navegador\source\repos\GestionTareas\DatosZone\bin\Debug\EntityFramework.xml
+C:\Users\Navegador\source\repos\GestionTareas\DatosZone\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Navegador\source\repos\GestionTareas\DatosZone\obj\Debug\DatosZone.csproj.AssemblyReference.cache
+C:\Users\Navegador\source\repos\GestionTareas\DatosZone\obj\Debug\DatosZone.csproj.CoreCompileInputs.cache
+C:\Users\Navegador\source\repos\GestionTareas\DatosZone\obj\Debug\DatosZone.csproj.CopyComplete
+C:\Users\Navegador\source\repos\GestionTareas\DatosZone\obj\Debug\DatosZone.dll
+C:\Users\Navegador\source\repos\GestionTareas\DatosZone\obj\Debug\DatosZone.pdb

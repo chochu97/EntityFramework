@@ -1,0 +1,14 @@
+C:\Users\Navegador\source\repos\GestionTareas\BusinessZone\bin\Debug\BusinessZone.dll
+C:\Users\Navegador\source\repos\GestionTareas\BusinessZone\bin\Debug\BusinessZone.pdb
+C:\Users\Navegador\source\repos\GestionTareas\BusinessZone\bin\Debug\DatosZone.dll
+C:\Users\Navegador\source\repos\GestionTareas\BusinessZone\bin\Debug\EntityZone.dll
+C:\Users\Navegador\source\repos\GestionTareas\BusinessZone\bin\Debug\EntityFramework.dll
+C:\Users\Navegador\source\repos\GestionTareas\BusinessZone\bin\Debug\DatosZone.pdb
+C:\Users\Navegador\source\repos\GestionTareas\BusinessZone\bin\Debug\DatosZone.dll.config
+C:\Users\Navegador\source\repos\GestionTareas\BusinessZone\bin\Debug\EntityZone.pdb
+C:\Users\Navegador\source\repos\GestionTareas\BusinessZone\bin\Debug\EntityFramework.xml
+C:\Users\Navegador\source\repos\GestionTareas\BusinessZone\obj\Debug\BusinessZone.csproj.AssemblyReference.cache
+C:\Users\Navegador\source\repos\GestionTareas\BusinessZone\obj\Debug\BusinessZone.csproj.CoreCompileInputs.cache
+C:\Users\Navegador\source\repos\GestionTareas\BusinessZone\obj\Debug\BusinessZone.csproj.CopyComplete
+C:\Users\Navegador\source\repos\GestionTareas\BusinessZone\obj\Debug\BusinessZone.dll
+C:\Users\Navegador\source\repos\GestionTareas\BusinessZone\obj\Debug\BusinessZone.pdb
